@@ -1,0 +1,18 @@
+{
+    "name": "ASATest",
+    "startFile": "ASATest.asaql",
+    "configurations": [
+        {
+            "filePath": "Inputs/Local_Input.json",
+            "subType": "InputMock"
+        },
+        {
+            "filePath": "Inputs/Local_ReferenceInput.json",
+            "subType": "InputMock"
+        },
+        {
+            "filePath": "JobConfig.json",
+            "subType": "JobConfig"
+        }
+    ]
+}

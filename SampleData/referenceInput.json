@@ -1,0 +1,10 @@
+[
+    {
+        "SensorId": "D1",
+        "Enabled": true
+    },
+    {
+        "SensorId": "D2",
+        "Enabled": false
+    }
+]

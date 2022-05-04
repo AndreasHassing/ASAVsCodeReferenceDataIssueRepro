@@ -1,0 +1,22 @@
+[
+    {
+        "sensorId": "D1",
+        "Temperature": 38
+    },
+    {
+        "sensorId": "D1",
+        "Temperature": 14
+    },
+    {
+        "sensorId": "D2",
+        "Temperature": 50
+    },
+    {
+        "sensorId": "D1",
+        "Temperature": 28
+    },
+    {
+        "sensorId": "D1",
+        "Temperature": -30
+    }
+]

@@ -1,0 +1,10 @@
+SELECT 
+    Input.* INTO Output 
+FROM 
+    Input 
+    JOIN ReferenceInput 
+    ON Input.sensorId = ReferenceInput.sensorId 
+WHERE 
+    ReferenceInput.enabled = 1 AND
+    Input.Temperature > 27 
+

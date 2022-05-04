@@ -1,0 +1,7 @@
+{
+    "InputAlias": "ReferenceInput",
+    "Type": "Reference data",
+    "Format": "Json",
+    "FilePath": "../SampleData/referenceInput.json",
+    "ScriptType": "InputMock"
+}
